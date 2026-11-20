@@ -2,6 +2,8 @@
 
 Generate grouped, individually editable Excalidraw text runs for a paragraph with selected words in different colors. Measure each position against the chosen font so authors can skip aligning the pieces by hand.
 
+**[English quickstart and step-by-step tutorial](TUTORIAL.md)**
+
 ## Install as an Agent Skill
 
 Download the **versioned ZIP** from [Releases](https://github.com/Uone100/excalidraw-inline-colors/releases/latest). Extract its contents into `.agents/skills/excalidraw-inline-colors/` in a Codex project or `.claude/skills/excalidraw-inline-colors/` in a Claude Code project. The installed folder should contain SKILL.md directly. Start a new session and ask for the task described above. You can also run the helper directly.
