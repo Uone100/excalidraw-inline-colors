@@ -4,6 +4,14 @@ Generate grouped, individually editable Excalidraw text runs for a paragraph wit
 
 **[English quickstart and step-by-step tutorial](TUTORIAL.md)**
 
+[Download v0.1.1 ZIP](https://github.com/Uone100/excalidraw-inline-colors/releases/download/v0.1.1/excalidraw-inline-colors-0.1.1.zip)
+
+Install in a Codex project with Node.js 22.20 or newer:
+
+```sh
+npx skills add Uone100/excalidraw-inline-colors -a codex
+```
+
 ## Install as an Agent Skill
 
 Download the **versioned ZIP** from [Releases](https://github.com/Uone100/excalidraw-inline-colors/releases/latest). Extract its contents into `.agents/skills/excalidraw-inline-colors/` in a Codex project or `.claude/skills/excalidraw-inline-colors/` in a Claude Code project. The installed folder should contain SKILL.md directly. Start a new session and ask for the task described above. You can also run the helper directly.
